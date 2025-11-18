@@ -8,6 +8,7 @@ Gian Karl C. Minglana
 
 ## **Certifications**
 - Guide to Fullstack Development - From Zero to Hero
+  github pics/GUIDE TO FULLSTACK CERTIFICATE.png
 - Challenges and Realities after Graduation
 - The Art of Effective Communication: Becoming a Leader of People Trust
 
