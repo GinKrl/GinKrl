@@ -4,7 +4,8 @@
 Gian Karl C. Minglana
 
 ## **Education**
-- 2nd Year Bachelor of Science in Information Technology (Current)
+- 2nd Year Bachelor of Science in Information Technology
+- (2025-2026)
 
 ## **Certifications**
 **- Guide to Fullstack Development - From Zero to Hero**
