@@ -2,8 +2,8 @@
 Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy working with programming, web development, databases, and tools that make solving problems easier.  
 
 ## **Education**
-** - Bachelor of Science in Information Technology**
-- New Era University  
+**- Bachelor of Science in Information Technology**
+- New Era University
 - 2024-Present
 
 ## **Certifications**
