@@ -3,8 +3,8 @@ Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy 
 
 ## **Education**
  - **Bachelor of Science in Information Technology**
-- New Era University
-- 2024-Present
+  - New Era University
+  - 2024-Present
 
 ## **Certifications**
 
