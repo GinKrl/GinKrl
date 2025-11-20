@@ -1,7 +1,5 @@
-# **About Me**
-
-## **Name**
-Gian Karl C. Minglana
+# **Hello there, I am Gian Karl Minglana! 👋**  
+Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy working with programming, web development, databases, and toold that make solving problems easier.  
 
 ## **Education**
 **- 2nd Year Bachelor of Science in Information Technology**  
@@ -30,5 +28,5 @@ New Era University
 
 ## **Skillsets**
 - Programming Languages: Java, HTML, CSS
-- Tools: IntelliJ IDEA, Eclipse IDE, Visual Studio Code
-- Soft Skills: Teamwork, Active Listening
+- Databases: IBM DB2 Cloud
+- Tools: IntelliJ IDEA, Eclipse IDE, Visual Studio Code, Lucidchart
