@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy 
 
  - **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06AE2017C15F8277C90B668D2895868CD9889677F607F2BDDC542FC6C24FF6AF)**
 
- - **[Introduction to Cybersecurity](https://www.credly.com/badges/c5b860f1-5ca2-4bb9-8b2f-6ff66bef20bf/public_url)**
+ - **[Introduction to Cybersecurity Issued by Cisco](https://www.credly.com/badges/c5b860f1-5ca2-4bb9-8b2f-6ff66bef20bf/public_url)**
  - 
  - **Guide to Fullstack Development - From Zero to Hero**
 <img width="2112" height="1632" alt="Image" src="https://github.com/user-attachments/assets/08cafd9c-e2c8-4d9b-9ea3-b04b7f6a7bed" />
