@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy 
  
  - **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=06AE2017C15F8277C90B668D2895868CD9889677F607F2BDDC542FC6C24FF6AF)**
 
+ - **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B756F60ED0167966E7012BE46787D08F8B45F793EF957C3F257CD9BBB8851188)**
+
  - **[Introduction to Cybersecurity Issued by Cisco](https://www.credly.com/badges/c5b860f1-5ca2-4bb9-8b2f-6ff66bef20bf/public_url)**
 
  - **[Introduction to Data Science Issued by Cisco](https://www.credly.com/badges/a5521fe6-b5a2-4161-b902-78b66c062e10/public_url)**
