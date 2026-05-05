@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I am a BS Information Technology student. I enjoy 
    - 2024-Present
 
 ## **Certifications**
+ - **[NoSQL and DBaaS 101](https://apps.cognitiveclass.ai/learning/course/course-v1:BDU+DB0151EN+v1/home)**
 
  - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/df8ddf3abfc440d58514e265c8ab0f1b)**
 
